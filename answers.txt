@@ -1,0 +1,14 @@
+Matteo Franchi Answers PART 2
+
+Linux Commands:
+cd - change directory 
+ls - list files and directories 
+pwd - print the current directory 
+pico - open the pico text editor to create/edit files 
+
+
+Git Commands: 
+git status - check the status of your directory
+git add - add changes in a file 
+git commit -m "message" - save changes with a description 
+git push - upload commits to GitHub
